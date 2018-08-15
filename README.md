@@ -15,9 +15,7 @@ This will run RubyMine and you can set it up however you like.  Next you are goi
 
 sudo apt-get update && gem install aws-sdk
 
-This will install the AWS SDK to integrate Ruby and AWS.
-
-You can follow this tutorial for setting up your work environment for a new ruby application.  It will cover all of the different services that AWS provides and how they work with Ruby to create dynamically scaling Ruby on Rails applications.
+This will install the AWS SDK to integrate Ruby and AWS.  You can follow this tutorial for setting up your work environment for a new ruby application.  It will cover all of the different services that AWS provides and how they work with Ruby to create dynamically scaling Ruby on Rails applications.
 
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html
 
