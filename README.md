@@ -9,15 +9,11 @@ sudo tar -xzf RubyMine-2018.2.1.tar.gz --directory /opt
 
 This will unpack RubyMine into the folder /opt.  Next you will want to run the commands:
 
-cd /opt/RubyMine-2018.2.1/bin
-./rubymine.sh
+cd /opt/RubyMine-2018.2.1/bin && ./rubymine.sh
 
-This will run RubyMine and you can set it up however you like.
+This will run RubyMine and you can set it up however you like.  Next you are going to want to run the commands:
 
-Next you are going to want to run the commands:
-
-sudo apt-get update
-gem install aws-sdk
+sudo apt-get update && gem install aws-sdk
 
 This will install the AWS SDK to integrate Ruby and AWS.
 
